@@ -1,4 +1,4 @@
-# slr-gender-gap
+# slr-gender-gap-stem
 
 This repo contains Resources for the Systematic Literature Review (SLR) carries out as part of PhD thesis about the gender gap in STEM studies in higher education by Sonia Verdugo-Castro and supervised by Alicia García-Holgado and Mª Cruz Sánchez Gómez.
 
